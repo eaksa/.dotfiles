@@ -5,7 +5,7 @@ set $mod Mod4
 # set $mod Mod1
 
 # Gaps and windows
-gaps top 33
+#gaps top 33
 gaps inner 10
 default_floating_border pixel 0
 default_border pixel 0
